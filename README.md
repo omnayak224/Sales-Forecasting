@@ -27,6 +27,7 @@ Accurate sales forecasting is critical for inventory management and strategic bu
 1. Clone this repository.
 2. Install dependencies: `pip install pandas matplotlib statsmodels prophet tensorflow scikit-learn`
 3. Run the Jupyter Notebook `Pro _file.ipynb`.
+4. Data set used: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ---
 *Created by Om Nayak
