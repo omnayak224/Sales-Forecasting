@@ -9,7 +9,7 @@ Accurate sales forecasting is critical for inventory management and strategic bu
 3. **LSTM (Long Short-Term Memory)**: A deep learning neural network designed to capture complex, non-linear sequences in data
 
 ## 🛠 Tech Stack
-* **Language**: Python 3.x
+* **Language**: Python
 * **Data Processing**: `Pandas`, `NumPy`
 * **Visualization**: `Matplotlib`
 * **Modeling**: `Statsmodels` (SARIMAX), `Prophet` (Meta), `TensorFlow/Keras` (LSTM)
